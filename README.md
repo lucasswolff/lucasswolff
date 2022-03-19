@@ -10,4 +10,11 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 ------------------------
 
+### Projetos
+
+Veja meus projetos de Data Analysis:
+
+Analisando os dados do Covid: https://bit.ly/3tmAeL9
+
+Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3CXCTOx
 
