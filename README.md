@@ -8,4 +8,6 @@ Além disso, tenho conhecimento em SQL, Python para analise de dados e Machine L
 
 Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lucas-wolff-mingardi/
 
--------
+------------------------
+
+
