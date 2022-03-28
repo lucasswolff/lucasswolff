@@ -10,15 +10,15 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 ------------------------
 
-### Projetos
+## Projetos
 
-# Veja meus projetos de Data Analysis:
+### Veja meus projetos de Data Analysis:
 
 • Analisando os dados do Covid: https://bit.ly/3tmAeL9
 
 • Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3CXCTOx
 
-# Esses são meus projetos de Machine Learning:
+### Esses são meus projetos de Machine Learning:
 
 • Prevendo o preço de casas em Taipei (regressão e clusterização): https://bit.ly/3qHSwVG
 
