@@ -18,3 +18,10 @@ Veja meus projetos de Data Analysis:
 
 • Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3CXCTOx
 
+------------------------
+
+Esses são meus projetos de Machine Learning:
+
+• Prevendo o preço de casas em Taipei (regressão e clusterização): https://bit.ly/3qHSwVG
+
+• Prevendo a classicação de carros (classificação): https://bit.ly/382Ekjr
