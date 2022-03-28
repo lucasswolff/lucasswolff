@@ -10,7 +10,7 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 ------------------------
 
-## Projetos
+# Projetos
 
 ### Veja meus projetos de Data Analysis:
 
