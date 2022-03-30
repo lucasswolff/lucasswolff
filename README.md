@@ -14,12 +14,12 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 ### Veja meus projetos de Data Analysis:
 
-• Analisando os dados do Covid: https://bit.ly/3tmAeL9
+• Analisando os dados do Covid: https://bit.ly/3JWGu23
 
-• Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3CXCTOx
+• Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3ISg2Wi
 
 ### Esses são meus projetos de Machine Learning:
 
-• Prevendo o preço de casas em Taipei (regressão e clusterização): https://bit.ly/3qHSwVG
+• Prevendo o preço de casas em Taipei (regressão e clusterização): https://bit.ly/38gi3in
 
-• Prevendo a classicação de carros (classificação): https://bit.ly/382Ekjr
+• Prevendo a classicação de carros (classificação): https://bit.ly/3DpygNC
