@@ -22,4 +22,4 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 • Prevendo o preço de casas em Taipei (regressão e clusterização): https://bit.ly/38gi3in
 
-• Prevendo a classicação de carros (classificação): https://bit.ly/3DpygNC
+• Prevendo a classificação de carros (classificação): https://bit.ly/3DpygNC
