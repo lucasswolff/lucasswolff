@@ -16,7 +16,9 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 
 • Analisando os dados do Covid: https://bit.ly/3JWGu23
 
-• Analisando as críticas da série Breaking Bad no IMBD: https://bit.ly/3ISg2Wi
+• Analisando as críticas da série Breaking Bad via Web Scraping: https://bit.ly/3ISg2Wi
+
+• Analisando e-commerce usando SQL: https://bit.ly/3xqzib3
 
 ### Esses são meus projetos de Machine Learning:
 
