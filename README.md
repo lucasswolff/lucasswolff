@@ -19,6 +19,8 @@ Você pode acessar meu Linkedin através do link: https://www.linkedin.com/in/lu
 • Analisando as críticas da série Breaking Bad via Web Scraping: https://bit.ly/3ISg2Wi
 
 • Analisando e-commerce usando SQL: https://bit.ly/3xqzib3
+  
+• Criando dashboards de e-commerce usando Power BI: https://bit.ly/3KUlSbx
 
 ### Esses são meus projetos de Machine Learning:
 
