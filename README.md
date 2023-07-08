@@ -23,3 +23,5 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 • Predicting house prices in Taipei (regression and clustering): https://bit.ly/38gi3in
 
 • Predicting the ranking of cars (classification): https://bit.ly/3Lx3xBa
+
+• Kaggle Competition - House Prices - Advanced Regression Techniques: http://bit.ly/44d4sjO
