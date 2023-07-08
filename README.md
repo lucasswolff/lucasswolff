@@ -24,4 +24,4 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 • Predicting the ranking of cars (classification): https://bit.ly/3Lx3xBa
 
-• Kaggle Competition - House Prices - Advanced Regression Techniques: http://bit.ly/44d4sjO
+• Kaggle Competition - House Prices - Advanced Regression Techniques (Ranking top 22%): http://bit.ly/44d4sjO
