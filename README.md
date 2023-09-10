@@ -13,8 +13,6 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 • Analysing data from Covid: https://bit.ly/3JWGu23
 
-• Analyzing Breaking Bad series reviews via Web Scraping: https://bit.ly/3ISg2Wi
-
 • Analyzing e-commerce using SQL: https://bit.ly/3xqzib3
   
 • Creating e-commerce dashboards using Power BI: https://bit.ly/3KUlSbx
