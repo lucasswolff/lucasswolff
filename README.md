@@ -9,6 +9,7 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 # Projects
 
 ### Data Analysis Projects:
+• Inferential Statistical Analysis on Supply Chain Data: https://bit.ly/3EwJXDp
 
 • Analysing data from Covid: https://bit.ly/3JWGu23
 
