@@ -11,6 +11,8 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 ### Data Analysis:
 • Inferential Statistical Analysis on Supply Chain Data: https://bit.ly/3EwJXDp
 
+• NYC Taxis - Geoprocessing and Data Analysis using Spark: http://bit.ly/3VvzIr3
+
 • Analysing data from Covid: https://bit.ly/3JWGu23
 
 • Analyzing e-commerce using SQL: https://bit.ly/3xqzib3
