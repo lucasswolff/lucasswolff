@@ -8,6 +8,9 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 # Projects
 
+### Complete Data Architecture:
+• Complete Data Architecture for NYC Ride Services - https://bit.ly/3Grm58L
+
 ### Data Analysis:
 • Inferential Statistical Analysis on Supply Chain Data: https://bit.ly/3EwJXDp
 
