@@ -9,7 +9,7 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 # Projects
 
 ### Complete Data Pipeline:
-• Data Pipeline using Spark and AWS for NYC Ride Services - bit.ly/4oB4a0V
+• Data Pipeline using Spark and AWS for NYC Ride Services - https://bit.ly/4oB4a0V
 
 ### Data Analysis:
 • Inferential Statistical Analysis on Supply Chain Data: https://bit.ly/3EwJXDp
