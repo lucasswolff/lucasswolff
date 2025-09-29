@@ -10,6 +10,7 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 ### Complete Data Pipeline:
 • Complete Data Warehouse using python, dbt and airflow - https://bit.ly/3ILkko6
+
 • Data Pipeline using Spark and AWS for NYC Ride Services - https://bit.ly/4oB4a0V
 
 ### Data Analysis:
