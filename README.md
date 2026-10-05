@@ -26,6 +26,8 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 ### Machine Learning Projects:
 
+• Using AI to optimize a Chemical Reactor: https://github.com/lucasswolff/ML-chemical-reactor
+
 • Predicting house prices in Taipei (regression and clustering): https://bit.ly/38gi3in
 
 • Predicting the ranking of cars (classification): https://bit.ly/3Lx3xBa
