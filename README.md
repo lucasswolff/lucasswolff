@@ -22,13 +22,9 @@ You can find my Linkedin profile here: https://www.linkedin.com/in/lucas-wolff-m
 
 • Analysing data from Covid: https://bit.ly/3JWGu23
 
-• Analyzing e-commerce using SQL: https://bit.ly/3xqzib3
-  
-• Creating e-commerce dashboards using Power BI: https://bit.ly/3KUlSbx
-
 ### Machine Learning Projects:
 
-• Using AI to optimize a Chemical Reactor: https://github.com/lucasswolff/ML-chemical-reactor
+• Using ML to optimize a Chemical Reactor: https://github.com/lucasswolff/ML-chemical-reactor
 
 • Predicting house prices in Taipei (regression and clustering): https://bit.ly/38gi3in
 
